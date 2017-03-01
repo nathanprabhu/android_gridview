@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/view"
+        android:title="View Image" />
+    <item android:id="@+id/carwebsite"
+        android:title="Visit Manufacturer Website" />
+    <item android:id="@+id/dealer"
+        android:title="Dealers in Chicago" />
+</menu>
